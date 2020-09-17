@@ -1,7 +1,7 @@
 
 //ejercicio 2 del Test
 
-let cadena=' java script es un lenguaje de programación. La versión mas reciente de javascript es del año 2015. Javascript es un lenguaje de interpretado que corre en el navegador';
+let cadena=' java script es un lenguaje de programación. La versión mas reciente de javascript es del año 2016. Javascript es un lenguaje de interpretado que corre en el navegador';
 
 function contarOcurrencias(cadena, subcadena){
 let contadorOcurrencias = 0;
